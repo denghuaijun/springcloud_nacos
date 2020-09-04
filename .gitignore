@@ -1,0 +1,7 @@
+.idea
+*.pyc
+*.iml
+*.class
+target/
+generatorConfig.xml
+generator.properties
